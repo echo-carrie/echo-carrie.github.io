@@ -1,10 +1,10 @@
 ---
-title: keep-ai
+title: Keep AI
 published: 2025-05-27
-description: ''
+description: 'Keep AI产品分析报告'
 image: ''
-tags: []
-category: ''
+tags: [ProductAnalysis,ProductManager]
+category: 'ProductAnalysis'
 draft: false 
 lang: ''
 ---
