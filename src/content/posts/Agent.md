@@ -1,5 +1,5 @@
 ---
-title: AI-agnet.md
+title: Agent原理及主流框架总结
 published: 2025-05-12
 description: 'AI agent及主流框架总结'
 image: ''
@@ -8,8 +8,6 @@ category: 'ProductManager'
 draft: false 
 lang: ''
 ---
-
-# AI agent及主流框架总结
 
 [TOC]
 
