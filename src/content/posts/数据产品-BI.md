@@ -1,5 +1,5 @@
 ---
-title: 数据产品-BI.md
+title: 数据产品-BI
 published: 2025-04-28
 description: '数据产品-BI产品的介绍及BI产品经理的主要职责'
 image: ''

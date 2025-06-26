@@ -4,7 +4,7 @@ published: 2025-05-12
 description: 'AI agent及主流框架总结'
 image: ''
 tags: [ProductManager,Agent]
-category: 'ProductManager'
+category: 'AI'
 draft: false 
 lang: ''
 ---
