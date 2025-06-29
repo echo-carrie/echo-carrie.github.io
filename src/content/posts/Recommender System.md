@@ -3,8 +3,8 @@ title: Recommender System
 published: 2025-04-09
 description: '推荐系统入门&ABtest'
 image: ''
-tags: [ProductManager,Recommend System,ABtest]
-category: 'ProductManager'
+tags: [ProductManager,Recommend System,Pm Classification]
+category: 'Pm Classification'
 draft: false 
 lang: ''
 ---

@@ -3,7 +3,7 @@ title: Agent原理及主流框架总结
 published: 2025-05-12
 description: 'AI agent及主流框架总结'
 image: ''
-tags: [ProductManager,Agent]
+tags: [Agent,AI]
 category: 'AI'
 draft: false 
 lang: ''

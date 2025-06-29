@@ -1,5 +1,5 @@
 ---
-title: OpenManus产品分析报告.md
+title: OpenManus产品分析报告
 published: 2025-05-09
 description: 'OpenManus产品分析报告'
 image: ''

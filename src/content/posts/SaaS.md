@@ -3,8 +3,8 @@ title: SaaS.md
 published: 2025-04-14
 description: 'SaaS学习笔记'
 image: ''
-tags: [SaaS,ProductManager]
-category: 'ProductManager'
+tags: [SaaS,ProductManager,Pm Classification]
+category: 'Pm Classification'
 draft: false 
 lang: ''
 ---
@@ -67,7 +67,7 @@ lang: ''
 
 ## 演进
 
-![img](https://pic3.zhimg.com/v2-80daf3863934b114218bbc99e8d5eacc_1440w.jpg)
+<img src="https://pic3.zhimg.com/v2-80daf3863934b114218bbc99e8d5eacc_1440w.jpg" alt="img" style="zoom:67%;" />
 
 * **终端设备：**通过远程终端访问集中式的主机机房，来处理或获取业务的信息和数据。现在还能在一些影片中看到这种终端设备的身影。
 * **C/S应用：**即客户端/服务器的访问模式。通过桌面客户端访问独立服务器，处理或获取业务信息和数据。这是早期开发者和用户在局域网中常用的一种应用架构。
@@ -82,10 +82,6 @@ lang: ''
 ​		(有赞的主要产品正在从SaaS转换为智能系统，这应该是SaaS工作手册的最后-个版本)
 
 # SaaS分类
-
-面向不同用户规模的Sass业务特点：
-
-<img src="C:\Users\12253\AppData\Roaming\Typora\typora-user-images\image-20250414004430952.png" alt="image-20250414004430952" style="zoom: 25%;" />
 
 ## 基于行业分类
 

@@ -3,7 +3,7 @@ title: 数据埋点
 published: 2025-06-26
 description: ''
 image: ''
-tags: [ProductManager，Data]
+tags: [Method,Data crypting]
 category: 'ProductManager'
 draft: false 
 lang: ''

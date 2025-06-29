@@ -3,7 +3,7 @@ title: AI-三种协作模式
 published: 2025-06-26
 description: ''
 image: ''
-tags: [ProductManager，Agent]
+tags: [Agent,AI]
 category: 'AI'
 draft: false 
 lang: ''

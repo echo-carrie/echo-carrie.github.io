@@ -1,10 +1,10 @@
 ---
 title: 数据产品-BI
 published: 2025-04-28
-description: '数据产品-BI产品的介绍及BI产品经理的主要职责'
+description: '数据产品：BI产品的介绍及BI产品经理的主要职责'
 image: ''
-tags: [ProductManager,BI]
-category: 'ProductManager'
+tags: [ProductManager,Pm Classification,BI]
+category: 'Pm Classification'
 draft: false 
 lang: 'zh-cn'
 ---
@@ -101,8 +101,6 @@ BI（Business Inteligence）是一种主要**由数据仓库、数据分析、�
 - 是**企业的数据能力平台**。
 - 基于大数据架构，围绕**数据采集 → 数据建模 → 数据资产管理 → 数据服务**搭建的一套**支撑多业务部门复用数据**的中台系统。
 - 核心是构建标准化、共享化的数据服务体系。
-
-![image-20250427211807805](C:\Users\52212\AppData\Roaming\Typora\typora-user-images\image-20250427211807805.png)
 
 #### **BI（Business Intelligence）**
 
